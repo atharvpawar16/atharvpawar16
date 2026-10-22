@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Atharv Pawar, full-stack developer">
 <style>
-.bg{fill:#0b1430}
-.t{font-family:Georgia,'Times New Roman',serif;fill:#f3eee2}
-.s{font-family:ui-monospace,Menlo,Consolas,monospace;fill:#a3acc4;letter-spacing:3px}
-.l{fill:none;stroke:#e8935a;stroke-width:2;stroke-linecap:round;stroke-dasharray:1200;animation:d 3.4s .4s ease-out backwards}
-.base{stroke:#1f2b50;stroke-width:1}
+.bg{fill:#2D4F1E}
+.t{font-family:Georgia,'Times New Roman',serif;fill:#F5E6CC}
+.s{font-family:ui-monospace,Menlo,Consolas,monospace;fill:#D9CBB0;letter-spacing:3px}
+.l{fill:none;stroke:#E27D60;stroke-width:2;stroke-linecap:round;stroke-dasharray:1200;animation:d 3.4s .4s ease-out backwards}
+.base{stroke:#4C6E3B;stroke-width:1}
 .fade{opacity:1}
 @keyframes d{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}
 @keyframes f{to{opacity:1}}
@@ -12,7 +12,7 @@
 <rect class="bg" width="900" height="220" rx="14"/>
 <text class="s fade" x="48" y="62" font-size="13" style="animation-delay:.1s">FULL-STACK DEVELOPER · INDIA</text>
 <text class="t fade" x="48" y="122" font-size="54" style="animation-delay:.3s">Atharv Pawar</text>
-<text class="t fade" x="50" y="156" font-size="18" font-style="italic" style="animation-delay:.6s;fill:#a3acc4">I build things that stay live.</text>
+<text class="t fade" x="50" y="156" font-size="18" font-style="italic" style="animation-delay:.6s;fill:#D9CBB0">I build things that stay live.</text>
 <path class="base" d="M0 190H900"/>
 <path class="l" d="M0 190H380L400 190 420 160 446 206 472 172 492 190H640L656 190 676 166 698 200 716 190H900"/>
 </svg>
