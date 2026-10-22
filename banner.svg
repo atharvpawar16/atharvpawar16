@@ -3,10 +3,10 @@
 .bg{fill:#0b0d12}
 .t{font-family:Georgia,'Times New Roman',serif;fill:#f1ede4}
 .s{font-family:ui-monospace,Menlo,Consolas,monospace;fill:#9aa0ae;letter-spacing:3px}
-.l{fill:none;stroke:#5b8cff;stroke-width:2;stroke-linecap:round;stroke-dasharray:1200;stroke-dashoffset:1200;animation:d 3.4s .4s ease-out forwards}
+.l{fill:none;stroke:#5b8cff;stroke-width:2;stroke-linecap:round;stroke-dasharray:1200;animation:d 3.4s .4s ease-out backwards}
 .base{stroke:#222733;stroke-width:1}
-.fade{opacity:0;animation:f 1.2s ease-out forwards}
-@keyframes d{to{stroke-dashoffset:0}}
+.fade{opacity:1}
+@keyframes d{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}
 @keyframes f{to{opacity:1}}
 </style>
 <rect class="bg" width="900" height="220" rx="14"/>
