@@ -1,8 +1,8 @@
 # Atharv Pawar
 
-Self-taught full-stack developer from Maharashtra, India. I'm also a final-year B.Com student, so I tend to build things that sit somewhere between software and everyday paperwork.
+Self-taught full-stack developer from India. I'm also a third-year B.Com student, so I tend to build things that sit somewhere between software and everyday paperwork.
 
-I work mostly from my phone and a small laptop, ship on free tiers, and care more about a project staying up than about it looking clever.
+I like projects that stay up and stay simple, and I build them on free tiers.
 
 ## What I've built
 
