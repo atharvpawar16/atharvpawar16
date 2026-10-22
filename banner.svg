@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Atharv Pawar, full-stack developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Atharv Pawar, full-stack developer. I build things that stay live.">
 <style>
-.bg{fill:#0b0d12}
-.t{font-family:Georgia,'Times New Roman',serif;fill:#f1ede4}
-.s{font-family:ui-monospace,Menlo,Consolas,monospace;fill:#9aa0ae;letter-spacing:3px}
-.l{fill:none;stroke:#5b8cff;stroke-width:2;stroke-linecap:round;stroke-dasharray:1200;animation:d 3.4s .4s ease-out backwards}
-.base{stroke:#222733;stroke-width:1}
-.fade{opacity:1}
+.bg{fill:#f6f3ec;stroke:#e2ddd0;stroke-width:1}
+.t{font-family:Georgia,'Times New Roman',serif;fill:#1c1b19}
+.s{font-family:ui-monospace,Menlo,Consolas,monospace;fill:#5c5850;letter-spacing:3px}
+.i{font-family:Georgia,'Times New Roman',serif;font-style:italic;fill:#5c5850}
+.live{fill:#b4521f}
+.l{fill:none;stroke:#b4521f;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1200;animation:d 3.4s .4s ease-out backwards}
+.base{stroke:#d9d3c4;stroke-width:1}
 @keyframes d{from{stroke-dashoffset:1200}to{stroke-dashoffset:0}}
-@keyframes f{to{opacity:1}}
 </style>
-<rect class="bg" width="900" height="220" rx="14"/>
-<text class="s fade" x="48" y="62" font-size="13" style="animation-delay:.1s">FULL-STACK DEVELOPER · INDIA</text>
-<text class="t fade" x="48" y="122" font-size="54" style="animation-delay:.3s">Atharv Pawar</text>
-<text class="t fade" x="50" y="156" font-size="18" font-style="italic" style="animation-delay:.6s;fill:#9aa0ae">I build things that stay live.</text>
+<rect class="bg" x="0.5" y="0.5" width="899" height="219" rx="14"/>
+<text class="s" x="48" y="62" font-size="13">FULL-STACK DEVELOPER · INDIA</text>
+<text class="t" x="48" y="122" font-size="54">Atharv Pawar</text>
+<text class="i" x="50" y="156" font-size="18">I build things that stay <tspan class="live">live.</tspan></text>
 <path class="base" d="M0 190H900"/>
-<path class="l" d="M0 190H380L400 190 420 160 446 206 472 172 492 190H640L656 190 676 166 698 200 716 190H900"/>
+<path class="l" d="M48 190H380L400 190 420 160 446 206 472 172 492 190H640L656 190 676 166 698 200 716 190H852"/>
+<circle cx="852" cy="190" r="4" fill="#b4521f"/>
 </svg>
