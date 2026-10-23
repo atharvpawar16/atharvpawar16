@@ -38,7 +38,7 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvpawar16&theme=great_gatsby" width="700" alt="Profile details card for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvpawar16&theme=great_gatsby&name=Atharv+Pawar" width="700" alt="Profile details card for atharvpawar16">
 </p>
 
 <p align="center">
