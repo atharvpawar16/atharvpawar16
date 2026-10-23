@@ -85,7 +85,7 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 </p>
 
 <p align="center">
-<a href="https://www.holopin.io/@atharvpawar16"><img src="https://holopin.me/atharvpawar16" alt="Atharv's Holopin badge board"></a>
+<a href="https://www.holopin.io/@atharvpawar16"><img src="https://holopin.me/atharvpawar16?v=2" alt="Atharv's Holopin badge board"></a>
 </p>
 
 Dapr Community Supporter - awarded by the [Dapr](https://dapr.io/) project for supporting its community.
