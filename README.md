@@ -24,6 +24,12 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 
 **Data & hosting** - PostgreSQL · Firebase · Netlify · Vercel · Render
 
+## Badges
+
+[![Atharv's Holopin badge board](https://holopin.me/atharvpawar16)](https://www.holopin.io/@atharvpawar16)
+
+Dapr Community Supporter - awarded by the [Dapr](https://dapr.io/) project for supporting its community.
+
 ## Find me
 
 [Portfolio](https://atharvpawar16.netlify.app/) · [GitHub](https://github.com/atharvpawar16) · [Instagram](https://instagram.com/atha_rvpawar16) · [adp060606@gmail.com](mailto:adp060606@gmail.com)
