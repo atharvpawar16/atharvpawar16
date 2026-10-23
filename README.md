@@ -88,7 +88,7 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 <a href="https://www.holopin.io/@atharvpawar16"><img src="https://holopin.me/atharvpawar16?v=2" alt="Atharv's Holopin badge board"></a>
 </p>
 
-Dapr Community Supporter - awarded by the [Dapr](https://dapr.io/) project for supporting its community.
+Early Bird Pegasaurus (Holopin early member) and Dapr Community Supporter - awarded by the [Dapr](https://dapr.io/) project for supporting its community.
 
 <p align="center">
 <a href="https://daily.dev/atharvpawar16"><img src="https://api.daily.dev/devcards/v2/U59dfXKK0n7gfCzXNUeAv.png?type=default&r=2cy" width="356" alt="Atharv Pawar's Dev Card"/></a>
