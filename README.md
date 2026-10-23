@@ -30,6 +30,10 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 
 Dapr Community Supporter - awarded by the [Dapr](https://dapr.io/) project for supporting its community.
 
+<a href="https://daily.dev/atharvpawar16"><img src="https://api.daily.dev/devcards/v2/U59dfXKK0n7gfCzXNUeAv.png?r=2z6" width="356" alt="Atharv Pawar's Dev Card"/></a>
+
+My [daily.dev](https://daily.dev/atharvpawar16) DevCard - the topics I read and follow, updated as my reading activity grows.
+
 ## Find me
 
 [Portfolio](https://atharvpawar16.netlify.app/) · [GitHub](https://github.com/atharvpawar16) · [Instagram](https://instagram.com/atha_rvpawar16) · [adp060606@gmail.com](mailto:adp060606@gmail.com)
