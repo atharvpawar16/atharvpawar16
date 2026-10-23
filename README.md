@@ -75,4 +75,3 @@ My [daily.dev](https://daily.dev/atharvpawar16) DevCard - the topics I read and 
 
 [Portfolio](https://atharvpawar16.netlify.app/) · [GitHub](https://github.com/atharvpawar16) · [Instagram](https://instagram.com/atha_rvpawar16) · [adp060606@gmail.com](mailto:adp060606@gmail.com)
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=B87333&section=footer&height=140" alt="" width="100%"></p>
