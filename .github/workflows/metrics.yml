@@ -11,6 +11,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34 pinned
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,3 +25,21 @@ jobs:
           plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+      - name: Recolor metrics SVG to profile palette
+        run: |
+          git pull --rebase origin main
+          sed -i \
+            -e 's/#0366d6/#B87333/g' \
+            -e 's/#ebedf0/#EFE6DC/g' \
+            -e 's/#9be9a8/#E4C9A9/g' \
+            -e 's/#40c463/#D9A05B/g' \
+            -e 's/#30a14e/#B87333/g' \
+            -e 's/#216e39/#6B4A1F/g' \
+            github-metrics.svg
+          if ! git diff --quiet github-metrics.svg; then
+            git config user.name "Atharv Pawar"
+            git config user.email "adp060606@gmail.com"
+            git add github-metrics.svg
+            git commit -m "Recolor metrics SVG to profile palette [skip ci]"
+            git push origin main
+          fi
