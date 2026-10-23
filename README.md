@@ -69,7 +69,7 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 </p>
 
 <p align="center">
-<a href="https://www.hackerrank.com/profile/atharvpawar16"><img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=atharvpawar16" alt="HackerRank stats for atharvpawar16"></a>
+<a href="https://www.hackerrank.com/profile/atharvpawar16"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/hackerrank.svg?v=1" alt="HackerRank profile for atharvpawar16: badges earned"></a>
 </p>
 
 <p align="center">

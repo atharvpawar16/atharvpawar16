@@ -55,3 +55,14 @@ jobs:
             git commit -m "Update LeetCode stats card [skip ci]"
             git push origin main
           fi
+      - name: Render truthful HackerRank card from public API
+        run: |
+          git pull --rebase origin main
+          python3 scripts/hackerrank_card.py
+          git config user.name "Atharv Pawar"
+          git config user.email "adp060606@gmail.com"
+          git add hackerrank.svg
+          if ! git diff --cached --quiet hackerrank.svg; then
+            git commit -m "Update HackerRank card [skip ci]"
+            git push origin main
+          fi
