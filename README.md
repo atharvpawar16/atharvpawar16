@@ -64,8 +64,8 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 ## Practice & coding time
 
 <p align="center">
-<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" width="424" alt="Codewars stats for atharvpawar16"></a>
-<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=2" width="424" alt="LeetCode stats for atharvpawar16"></a>
+<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" width="405" alt="Codewars stats for atharvpawar16"></a>
+<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=2" width="405" alt="LeetCode stats for atharvpawar16"></a>
 </p>
 
 <p align="center">
