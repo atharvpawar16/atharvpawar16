@@ -43,3 +43,15 @@ jobs:
             git commit -m "Recolor metrics SVG to profile palette [skip ci]"
             git push origin main
           fi
+      - name: Fetch and recolor LeetCode stats card
+        run: |
+          git pull --rebase origin main
+          curl -fsSL "https://github-readme-leetcode-card.romitsagu.com/atharvpawar16" -o leetcode.svg
+          sed -i -e 's/#4c71f2/#B87333/g' -e 's/#2f80ed/#B87333/g' leetcode.svg
+          git config user.name "Atharv Pawar"
+          git config user.email "adp060606@gmail.com"
+          git add leetcode.svg
+          if ! git diff --cached --quiet leetcode.svg; then
+            git commit -m "Update LeetCode stats card [skip ci]"
+            git push origin main
+          fi

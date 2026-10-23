@@ -61,6 +61,21 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 <img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation for atharvpawar16">
 </p>
 
+## Practice & coding time
+
+<p align="center">
+<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" alt="Codewars stats for atharvpawar16"></a>
+<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=1" alt="LeetCode stats for atharvpawar16"></a>
+</p>
+
+<p align="center">
+<a href="https://www.hackerrank.com/profile/atharvpawar16"><img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=atharvpawar16" alt="HackerRank stats for atharvpawar16"></a>
+</p>
+
+<p align="center">
+<a href="https://wakatime.com/@b37496d3-475b-4041-9e2d-cb83775367d4"><img src="https://wakatime.com/share/@b37496d3-475b-4041-9e2d-cb83775367d4/381a3901-7317-4a75-867c-87e5c814b91f.svg" alt="Coding activity over the last 30 days from WakaTime"></a>
+</p>
+
 ## Badges
 
 [![Atharv's Holopin badge board](https://holopin.me/atharvpawar16)](https://www.holopin.io/@atharvpawar16)
