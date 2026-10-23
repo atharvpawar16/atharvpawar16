@@ -64,8 +64,8 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 ## Practice & coding time
 
 <p align="center">
-<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" alt="Codewars stats for atharvpawar16"></a>
-<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=1" alt="LeetCode stats for atharvpawar16"></a>
+<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" height="195" alt="Codewars stats for atharvpawar16"></a>
+<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=1" height="195" alt="LeetCode stats for atharvpawar16"></a>
 </p>
 
 <p align="center">
@@ -78,11 +78,21 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 
 ## Badges
 
-[![Atharv's Holopin badge board](https://holopin.me/atharvpawar16)](https://www.holopin.io/@atharvpawar16)
+<p align="center">
+<a href="https://github.com/atharvpawar16?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="72" alt="Pull Shark - GitHub achievement"></a>
+<a href="https://github.com/atharvpawar16?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="72" alt="Quickdraw - GitHub achievement"></a>
+<a href="https://github.com/atharvpawar16?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="72" alt="YOLO - GitHub achievement"></a>
+</p>
+
+<p align="center">
+<a href="https://www.holopin.io/@atharvpawar16"><img src="https://holopin.me/atharvpawar16" alt="Atharv's Holopin badge board"></a>
+</p>
 
 Dapr Community Supporter - awarded by the [Dapr](https://dapr.io/) project for supporting its community.
 
+<p align="center">
 <a href="https://daily.dev/atharvpawar16"><img src="https://api.daily.dev/devcards/v2/U59dfXKK0n7gfCzXNUeAv.png?type=default&r=2cy" width="356" alt="Atharv Pawar's Dev Card"/></a>
+</p>
 
 My [daily.dev](https://daily.dev/atharvpawar16) DevCard - the topics I read and follow on daily.dev.
 
