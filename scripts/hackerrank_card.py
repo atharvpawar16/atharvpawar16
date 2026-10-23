@@ -11,12 +11,12 @@ req = urllib.request.Request(
 data = json.load(urllib.request.urlopen(req, timeout=30))
 badges = len(data.get("models", []))
 
-svg = f'''<svg width="500" height="130" viewBox="0 0 500 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HackerRank stats for {USER}">
-  <rect x="0.5" y="0.5" width="499" height="129" rx="6" fill="#FFFEFE" stroke="#E4E2E2"/>
-  <text x="25" y="42" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="20" font-weight="600" fill="#B87333">Atharv Pawar</text>
-  <text x="25" y="64" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" fill="#434D58">HackerRank &#183; @{USER}</text>
-  <text x="25" y="106" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="30" font-weight="700" fill="#B87333">{badges}</text>
-  <text x="70" y="106" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="13" fill="#434D58">badges earned</text>
+svg = f'''<svg width="858" height="150" viewBox="0 0 858 150" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HackerRank stats for {USER}">
+  <rect x="0.5" y="0.5" width="857" height="149" rx="6" fill="#FFFEFE" stroke="#E4E2E2"/>
+  <text x="32" y="52" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="24" font-weight="600" fill="#B87333">Atharv Pawar</text>
+  <text x="32" y="78" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="15" fill="#434D58">HackerRank &#183; @{USER}</text>
+  <text x="32" y="126" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="34" font-weight="700" fill="#B87333">{badges}</text>
+  <text x="86" y="126" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="15" fill="#434D58">badges earned</text>
 </svg>
 '''
 with open("hackerrank.svg", "w") as f:

@@ -64,16 +64,16 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 ## Practice & coding time
 
 <p align="center">
-<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" height="195" alt="Codewars stats for atharvpawar16"></a>
-<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=1" height="195" alt="LeetCode stats for atharvpawar16"></a>
+<a href="https://www.codewars.com/users/atharvpawar16"><img src="https://github.r2v.ch/codewars?user=atharvpawar16" width="424" alt="Codewars stats for atharvpawar16"></a>
+<a href="https://leetcode.com/u/atharvpawar16/"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/leetcode.svg?v=2" width="424" alt="LeetCode stats for atharvpawar16"></a>
 </p>
 
 <p align="center">
-<a href="https://www.hackerrank.com/profile/atharvpawar16"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/hackerrank.svg?v=1" alt="HackerRank profile for atharvpawar16: badges earned"></a>
+<a href="https://www.hackerrank.com/profile/atharvpawar16"><img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/hackerrank.svg?v=2" width="858" alt="HackerRank profile for atharvpawar16: badges earned"></a>
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@b37496d3-475b-4041-9e2d-cb83775367d4"><img src="https://wakatime.com/share/@b37496d3-475b-4041-9e2d-cb83775367d4/381a3901-7317-4a75-867c-87e5c814b91f.svg" alt="Coding activity over the last 30 days from WakaTime"></a>
+<a href="https://wakatime.com/@b37496d3-475b-4041-9e2d-cb83775367d4"><img src="https://wakatime.com/share/@b37496d3-475b-4041-9e2d-cb83775367d4/381a3901-7317-4a75-867c-87e5c814b91f.svg" width="858" alt="Coding activity over the last 30 days from WakaTime"></a>
 </p>
 
 ## Badges
