@@ -54,7 +54,7 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 ## Metrics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/github-metrics.svg" alt="Detailed GitHub metrics for atharvpawar16">
+<img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/github-metrics.svg?v=2" alt="Detailed GitHub metrics for atharvpawar16">
 </p>
 
 <p align="center">
