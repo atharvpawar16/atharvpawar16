@@ -73,6 +73,10 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 </p>
 
 <p align="center">
+<a href="https://stackoverflow.com/users/33230553/atharv-pawar"><img src="https://stackoverflow.com/users/flair/33230553.png?theme=dark" width="416" alt="Stack Overflow flair for Atharv Pawar"></a>
+</p>
+
+<p align="center">
 <a href="https://wakatime.com/@b37496d3-475b-4041-9e2d-cb83775367d4"><img src="https://wakatime.com/share/@b37496d3-475b-4041-9e2d-cb83775367d4/381a3901-7317-4a75-867c-87e5c814b91f.svg" width="858" alt="Coding activity over the last 30 days from WakaTime"></a>
 </p>
 
