@@ -38,17 +38,17 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvpawar16&theme=gruvbox" width="700" alt="Profile details card for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvpawar16&theme=great_gatsby" width="700" alt="Profile details card for atharvpawar16">
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharvpawar16&theme=gruvbox" alt="Top languages by repository for atharvpawar16">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharvpawar16&theme=gruvbox" alt="Top languages by commit for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharvpawar16&theme=great_gatsby" alt="Top languages by repository for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharvpawar16&theme=great_gatsby" alt="Top languages by commit for atharvpawar16">
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharvpawar16&theme=gruvbox" alt="Summary stats for atharvpawar16">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharvpawar16&theme=gruvbox&utcOffset=5.5" alt="Commits by time of day for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharvpawar16&theme=great_gatsby" alt="Summary stats for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharvpawar16&theme=great_gatsby&utcOffset=5.5" alt="Commits by time of day for atharvpawar16">
 </p>
 
 ## Metrics
