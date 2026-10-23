@@ -1,5 +1,7 @@
 <p align="center"><img src="banner.svg" alt="Atharv Pawar, full-stack developer" width="100%"></p>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B87333&center=true&vCenter=true&width=650&lines=Full-stack+developer+from+India;Building+useful+things+on+free+tiers;C%23+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Next.js" alt="Typing animation: full-stack developer from India, building useful things on free tiers"></p>
+
 ## About
 
 I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm studying for a Bachelor of Commerce, and I learn to code by building things. Most of what I make runs on free tiers, which keeps me honest about what an app really needs.
@@ -24,6 +26,41 @@ I'm Atharv Dattatraya Pawar, a self-taught full-stack developer from India. I'm 
 
 **Data & hosting** - PostgreSQL · Firebase · Netlify · Vercel · Render
 
+## Stats
+
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=atharvpawar16&show_icons=true&hide_border=true&bg_color=EFE6DC&title_color=B87333&text_color=2B2F36&icon_color=B87333" height="165" alt="GitHub stats for atharvpawar16">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atharvpawar16&layout=compact&hide_border=true&bg_color=EFE6DC&title_color=B87333&text_color=2B2F36" height="165" alt="Top languages for atharvpawar16">
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=atharvpawar16&hide_border=true&background=EFE6DC&ring=B87333&fire=B87333&currStreakLabel=B87333&sideLabels=2B2F36&dates=2B2F36&currStreakNum=2B2F36&sideNums=2B2F36" alt="GitHub contribution streak for atharvpawar16">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvpawar16&theme=solarized" width="700" alt="Profile details card for atharvpawar16">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atharvpawar16&theme=solarized" alt="Top languages by repository for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharvpawar16&theme=solarized" alt="Top languages by commit for atharvpawar16">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharvpawar16&theme=solarized" alt="Summary stats for atharvpawar16">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharvpawar16&theme=solarized&utcOffset=5.5" alt="Commits by time of day for atharvpawar16">
+</p>
+
+## Metrics
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/main/github-metrics.svg" alt="Detailed GitHub metrics for atharvpawar16">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/atharvpawar16/atharvpawar16/output/github-contribution-grid-snake.svg" alt="Contribution grid snake animation for atharvpawar16">
+</p>
+
 ## Badges
 
 [![Atharv's Holopin badge board](https://holopin.me/atharvpawar16)](https://www.holopin.io/@atharvpawar16)
@@ -37,3 +74,5 @@ My [daily.dev](https://daily.dev/atharvpawar16) DevCard - the topics I read and 
 ## Find me
 
 [Portfolio](https://atharvpawar16.netlify.app/) · [GitHub](https://github.com/atharvpawar16) · [Instagram](https://instagram.com/atha_rvpawar16) · [adp060606@gmail.com](mailto:adp060606@gmail.com)
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=B87333&section=footer&height=140" alt="" width="100%"></p>
