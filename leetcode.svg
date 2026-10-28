@@ -172,7 +172,7 @@
       <!-- Medium problems -->
       <g class="stagger" style="animation-delay: 700ms">
         <text x="0" y="55" class="stat">Medium</text>
-        <text x="270" y="55" class="stat-bold" text-anchor="end">0/2135</text>
+        <text x="270" y="55" class="stat-bold" text-anchor="end">0/2136</text>
         <text x="320" y="55" class="stat-label" text-anchor="end">0.0%</text>
         
       <rect x="0" y="62" width="320" height="8" rx="4" fill="#e4e2e2" opacity="0.2"/>
