@@ -1,3 +1,5 @@
+[![views](https://hits.sh/github.com/atharvpawar16/atharvpawar16.svg?label=views)](https://hits.sh/github.com/atharvpawar16/atharvpawar16/)
+
 <p align="center"><img src="banner.svg" alt="Atharv Pawar, full-stack developer" width="100%"></p>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=B87333&center=true&vCenter=true&width=650&lines=Full-stack+developer+from+India;Building+useful+things+on+free+tiers;C%23+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+Next.js" alt="Typing animation: full-stack developer from India, building useful things on free tiers"></p>
